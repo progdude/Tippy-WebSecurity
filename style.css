@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+body {
+    background-color: #fcfcfc
+}
+
+#title {
+    font-size: 90px;
+    text-align: center;
+    color: #26a69a;
+    font-family: Ubuntu;
+    font-weight: thick;
+    letter-spacing: 5px
+}
+
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 3vh;
+    font-family: Ubuntu;
+    width: 100%;
+    height: 6vh;
+    background-color: #26a69a;
+    color: #fff
+}
+
+.card-title{
+    color: #26a69a;
+    font-weight: thick;
+}
